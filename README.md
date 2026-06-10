@@ -29,6 +29,9 @@ A machine learning project that classifies news articles as FAKE or REAL using N
 ## 📁 Dataset
 - 6385 labeled news articles (FAKE + REAL)
 - Source: fake_or_real_news.csv
+- Download dataset from Kaggle: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
+Place it in the project folder and rename it to fake_or_real_news.csv
 
 ## 🚀 Run Locally
 pip install -r requirements.txt
